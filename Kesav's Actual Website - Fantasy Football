@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html>
+<head> 
+<title>Fantasy Football</title>
+</head> 
+
+<body style="text-align: center; background-color: #c5d1c8;">
+
+<h1>My team for the 2026-2027 season!</h1>
+<p>Here's my team!</p>
+
+<img src="fantasy starters.png" alt="Fantasy Starters" width="500">
+
+<h2>My league has 12 members, and I had the #1 pick</h2>
+<p>This means I have the best player in fantasy, Jahmyr Gibbs, but some of my other picks were slightly worse since the earlier you go in one round, the later you go in the other.</p>
+<p>Here is what he looks like!</p>
+
+<img src="Jahmyr Gibbs.jpg" alt="Jahmyr Gibbs" width="300">
+
+<h3>Our Punishment for the Loser</h3>
+<p>The punishment is currently undecided, but we'll be voting on it soon.</p> 
+
+<h3>Helpful Resources</h3>
+<p>Check out <a href="https://www.fantasypros.com/">FantasyPros</a>. It's helpful for beginners in terms of research and headlines regarding player statuses. This was really useful when I first started!</p>
+
+</body> 
+</html>
+
+
